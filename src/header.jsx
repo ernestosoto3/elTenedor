@@ -8,6 +8,7 @@ function Header(){
                 <a href="#hogar">Hogar</a>
                 <a href="#menu">Menu</a> 
                 <a href="#reservacion">Reservacion</a>
+                <a href="#nuestrosestablecimientos">Nuestros Establecimientos</a>
                 <a href="#contacto">Contacto</a>
             </nav>
         </header>
